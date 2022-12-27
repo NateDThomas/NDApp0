@@ -1,10 +1,11 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Button, View, ViewPagerAndroid } from 'react-native';
+import { StyleSheet, Button, Text, View, ViewPagerAndroid } from 'react-native';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Button title="Whats the phone number???????????????"></Button>
+      <Button color="rgb(255,0,0)" title="Whats the phone number????????????"></Button>
+      <Text>HUdiojk</Text>
       <StatusBar style="auto" />
     </View>
   );
