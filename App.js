@@ -4,7 +4,7 @@ import { StyleSheet, Button, Text, View, ViewPagerAndroid } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Button color="rgb(255,0,0)" title="Whats the phone number????????????"></Button>
+      <Button color="rgb(255,0,0)" title="Its always too late"></Button>
       <Text>HUdiojk</Text>
       <StatusBar style="auto" />
     </View>
