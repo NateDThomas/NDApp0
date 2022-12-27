@@ -1,3 +1,17 @@
 To publish to GitHub:
-Source Control
-Commit
+- Source Control
+- Commit
+- Add a comment and x out of it
+- SyncChanges
+
+To run emulator:
+- Open Andorid Studio
+- More options
+- Manage Virtual Devices
+- Run Pixel 3 XL
+- Type npx expo start in powershell
+
+If app isn't updating:
+- Sqaure on emulator
+- Swipe out app
+- NDAPP on LAPTOP
